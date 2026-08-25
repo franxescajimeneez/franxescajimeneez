@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Francheska 👋
 
-<!--
-**franxescajimeneez/franxescajimeneez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Java Developer
 
-Here are some ideas to get you started:
+I'm currently focused on building practical software projects with Java and strengthening my skills through hands-on development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech
+
+- Java
+- Object-Oriented Programming (OOP)
+- SQL
+- JDBC
+- Swing
+- Event-driven programming
+- Layered architecture
+
+## 🌱 My path
+
+My learning path started with digital security and continued through Artificial Intelligence, cyber intelligence and cybercrime before I specialized in Java development.
+
+I'm currently building my portfolio and looking for my first professional opportunity as a Junior Java Developer.
+
+## 🔗 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/francheska-jimeneez)
